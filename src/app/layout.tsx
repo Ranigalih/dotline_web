@@ -35,7 +35,7 @@ export const metadata: Metadata = {
     url: 'https://dotlinetattuhandpokebali.com',
     images: [
       {
-        url: '/favicon-dark.png',
+        url: '/Icon.png',
         width: 1200,
         height: 1200,
         alt: 'Dotlinetattu Sacred Ornament Logo - Premium Tattoo Studio Bali',
@@ -46,7 +46,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Dotlinetattu Handpoke Bali',
     description: 'Experience premium handpoke, traditional Balinese handtapping, and modern custom tattoos at Dotlinetattu in Canggu, Ubud, Uluwatu, and Denpasar, Bali.',
-    images: ['/favicon-dark.png'],
+    images: ['/Icon.png'],
   },
   robots: {
     index: true,
