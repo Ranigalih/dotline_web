@@ -40,7 +40,7 @@ export function Footer() {
                             Dotlinetattu 
                         </h2>
                         <p className="text-muted-foreground text-sm max-w-xs leading-relaxed text-left">
-                            Authentic traditional tattoo studio in bali
+                            AUTHENTIC TRADITIONAL HANDPOKE IN BALI AND HAND-TAPPING TATTOO
                         </p>
                         
                         {/* Booking & Instagram Buttons */}

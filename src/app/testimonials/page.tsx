@@ -37,7 +37,7 @@ export default function TestimonialPage() {
             Fokus Bali dan sebutkan target area secara natural
           */}
           <p className="text-muted-foreground text-sm md:text-base leading-relaxed">
-            Every tattoo tells a story, and so does every client. Read authentic reviews from art collectors across <strong className="text-white font-normal">BALI</strong>. Whether you're traveling from <strong className="text-white font-normal">Canggu, Ubud, Uluwatu, or Denpasar</strong>, discover why Dotlinetattu is the trusted choice for premium traditional and modern ink experiences.
+            Every tattoo tells a story, and so does every client. Read authentic reviews from art collectors across <strong className="text-white font-normal">BALI</strong>. Whether you're traveling from <strong className="text-white font-normal">Canggu, Ubud, Uluwatu, or Denpasar</strong>, discover why Dotlinetattu is the trusted choice for <span className="text-white font-normal">TRADITIONAL HANDPOKE TATTOO IN BALI AND HAND TAPPING BALI EXPERIENCE</span>.
           </p>
         </div>
 

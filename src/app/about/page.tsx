@@ -23,14 +23,26 @@ export default function AboutPage() {
             ABOUT <span className="text-gingerbread">Dotlinetattu</span>
           </h1>
           <h2 className="text-xl md:text-2xl text-white/90 font-light mb-8 leading-relaxed">
-            "For us, tattooing is a ritual. A sacred place where awareness, faith, and patience come together."
+            "THE AUTHENTIC TRADITIONAL HANDPOKE TATTOO IN BALI AND HAND TAPPING BALI TATTOO STUDIO, SPECIALIZE ON CUSTOM GEOMATRIC TRIBAL FUSION."
           </h2>
           <div className="text-muted-foreground leading-relaxed space-y-4 text-sm md:text-base">
             <p>
-              Located in the artistic heart of <strong className="text-white font-normal">BALI</strong>, Dotlinetattu is an Authentic and aesthetic tattoo studio dedicated to preserving ancient body art. While nestled in a private, peaceful space, we proudly welcome clients traveling from <strong className="text-white font-normal">Canggu, Ubud, Uluwatu, Denpasar</strong>, and across the globe to experience authentic traditional Handpoke and Handtapping tattoos.
+              LOCATED IN THE HEART ARTISTIC HEART OF BALI, DOTLINETATTU IS THE AUTHENTIC BALI TATTOO STUDIO SPECIALIZING IN HANDPOKE TATTOO, HAND TAPPING AND MACHINE TATTOO TECHNIQUES.
             </p>
             <p>
-              Our tattoo designs are deeply rooted in the traditions of Indonesian woven ornaments and interior carvings. We carefully develop and process these historical elements into highly personalized, custom tattoo art. A careful eye for body anatomy and a deep sensitivity to the tattooing process are our keys to unlocking the birthplace of every unique idea.
+              WE FOCUS ON GEOMATRIC TRIBAL FUSION DESIGNS, COMBINING TRADITIONAL INFLUENCE WITH MODERN STRUCTURE AND PRECISION.
+            </p>
+            <p>
+              OUR STUDIO WELCOMES CLIENTS FROM CANGGU, UBUD, ULUWATU, DENPASAR, AND AROUND THE WORLD, OFFERING A CLEAN, PRIVATE, AND FOCUSED TATTOO EXPERIENCE IN BALI.
+            </p>
+            <p>
+              OUR WORK IS INSPIRED BY INDONESIAN TRIBAL PATTERNS, ANCIENT ORNAMENTS AND GEOMATRIC BALANCE.
+            </p>
+            <p>
+              EACH DESIGN IS CAREFULLY DEVELOPED INTO A CUSTOM PIECE, ADAPTED TO THE BODY WITH ATTENTION TO FLOW, SYMMETRY AND DETAIL.
+            </p>
+            <p>
+              THE RESULT IS A DISTINCTIVE FUSION OF TRADITIONAL ELEMENTS AND MODERN TATTOO AESTHETICS.
             </p>
           </div>
         </div>
@@ -38,15 +50,15 @@ export default function AboutPage() {
         {/* SEO Services Section */}
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mb-32 border-y border-white/10 py-16 text-justify">
           <div className="space-y-4">
-            <h3 className="text-2xl font-graduated text-gingerbread">TRADITIONAL INK</h3>
+            <h3 className="text-2xl font-graduated text-gingerbread">TRADITIONAL TATTOO</h3>
             <p className="text-sm text-muted-foreground leading-relaxed">
-              As a specialist in Balinese tattoo culture, we offer authentic <strong>Handpoke </strong> and <strong>Handtapping</strong> techniques. This machine-free process is perfect for those seeking a deeply spiritual and traditional tattoo experience in Bali.
+              WE OFFER TRADITIONAL HANDPOKE AND HAND TAPPING TATTOO IN BALI, HANDPOKE IDEAL FOR GEOMATRIC AND FINE LINE DESIGNS, THIS METHOD PROVIDES A MORE CONTROLLED AND REFINED RESULT, HAND TAPPING IDEAL TO CREATES BOLD, RAW, AND NATURALLY TEXTURED DESIGN, FOR TRIBAL AND LARGE SCALE COMPOSITIONS.
             </p>
           </div>
           <div className="space-y-4">
-            <h3 className="text-2xl font-graduated text-gingerbread">MODERN MACHINE</h3>
+            <h3 className="text-2xl font-graduated text-gingerbread">MODERN TATTOO MACHINE</h3>
             <p className="text-sm text-muted-foreground leading-relaxed">
-              Beyond tradition, our Bali tattoo studio provides top-tier <strong>Custom Machine Tattoos</strong>. We use high-quality ink and modern equipment to ensure flawless, long-lasting results for every collector visiting the island.
+              WE ALSO PROVIDE MACHINE TATTOO SERVICES IN BALI, SPECIALIZING IN FINE LINE, ORNAMENTAL, AND CUSTOM GEOMATRIC DESIGNS. USING HIGH QUALITY EQUIPMENT, WE DELIVER CLEAN, SHARP, AND LONG LASTING RESULT.
             </p>
           </div>
           <div className="space-y-4">
@@ -77,7 +89,7 @@ export default function AboutPage() {
               <span className="text-xs text-muted-foreground tracking-widest uppercase">Lead Tattoo Artist</span>
               <h3 className="text-4xl font-graduated">SILVER JERRY</h3>
               <p className="text-sm text-muted-foreground leading-relaxed">
-                The creative force behind Dotlinetattu. Jerry specializes in translating ancient Indonesian motifs into breathtaking contemporary tattoos.
+                THE CREATIVE FORCE BEHIND DOTLINETATTU HANDPOKE TATTOO BALI-BASED. HE SPECIALIZES IN CUSTOM DESIGN, TRANSFORMING ANCIENT INDONESIAN TRIBAL PATTERNS INTO CONTEMPORARY GEOMATRIC TRIBAL FUSION TATTOOS WITH PRECISE AND DETAILED EXECUTION.
               </p>
               <a href="https://www.instagram.com/dotlinetattu?igsh=dmYxejk0cXN6c2d3" target="_blank" rel="noreferrer" className="inline-flex items-center gap-2 text-gingerbread hover:text-white transition-colors text-sm font-medium tracking-widest uppercase pt-4">
                 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><rect width="20" height="20" x="2" y="2" rx="5" ry="5"/><path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"/><line x1="17.5" x2="17.51" y1="6.5" y2="6.5"/></svg>

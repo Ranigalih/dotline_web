@@ -32,7 +32,7 @@ export default function BlogListPage() {
           </h1>
           
           <p className="text-muted-foreground text-sm md:text-base leading-relaxed">
-            Stories, insights, and cultural explorations from the artists at Dotlinetattu. Dive deep into the world of traditional Indonesian tattooing at our <strong className="text-white font-normal">BALI</strong> studio, an inspiring destination for ink collectors from <strong className="text-white font-normal">Canggu, Ubud, Uluwatu, Denpasar</strong>, and beyond.
+            DISCOVER HANDPOKE TATTOO IN BALI THROUGH OUR STUDIO JURNAL. INK CHRONICLES FEATURES INSIGHTS INTO GEOMATRIC TRIBAL FUSION, TRADITIONAL TATTOO TECHNIQUES, AND MODERN CUSTOM TATTOO DESIGN. LEARN ABOUT HANDPOKE, HAND TAPPING, AND FINE LINE TATTOO PROCESSES FROM OUR BALI BASED TATTOO STUDIO.
           </p>
         </div>
 

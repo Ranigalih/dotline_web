@@ -35,8 +35,19 @@ export default function PortfolioPage() {
             Menyisipkan Bali sebagai fokus utama, dan menargetkan Canggu, Ubud, Uluwatu, Denpasar
           */}
           <p className="text-muted-foreground text-sm md:text-base leading-relaxed">
-            A visual documentation of our journey in preserving traditional Indonesian tattoo art and embracing modern custom designs. Browse through our collection of Handpoke, Handtapping and Machine tattoos crafted in our <strong className="text-white font-normal">BALI</strong> studio. Proudly welcoming art collectors from <strong className="text-white font-normal">Canggu, Ubud, Uluwatu, Denpasar</strong>, and beyond.
+            TATTOO PORTFOLIO BALI GEOMATRIC TRIBAL FUSION
+            <br />
+            <span className="block mt-3">EXPLORE OUR PORTFOLIO OF HANDPOKE TATTOO IN BALI, FEATURING CUSTOM GEOMATRIC TRIBAL FUSION DESIGNS. INSPIRED BY INDONESIAN TRIBAL PATTERNS AND STRUCTURED THROUGH MODERN GEOMATRY, EACH TATTOO IS CAREFULLY DESIGNED TO FIT THE BODY WITH PRECISION AND BALANCE. OUR WORK INCLUDES HANDPOKE, HAND TAPPING, MACHINE TATTOO TECHNIQUES, DELIVERING CLEAN, DETAILED, AND DISTINCTIVE RESULTS.</span>
           </p>
+
+          <a
+            href="https://wa.me/6281234567890"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="mt-8 inline-flex items-center justify-center bg-gingerbread hover:bg-gingerbread-hover text-white px-7 py-3.5 text-sm md:text-base tracking-[0.2em] uppercase font-medium transition-all duration-200 focus:outline-none focus:ring-2 focus:ring-gingerbread/50"
+          >
+            BOOK YOUR TATTOO SESSION IN BALI
+          </a>
         </div>
 
         {/* Memanggil Client Component */}

@@ -8,27 +8,27 @@ import Link from "next/link";
 const tattooServices = [
   {
     id: "handpoke",
-    title: "HANDPOKE",
+    title: "HANDPOKE TATTOO BALI",
     subtitle: "Manual Precision",
     locationLabel: "NORTH KUTA",
     image: "/Handpoke.jpeg",
-    description: "Searching for a precise, machine-free tattoo in Bali? Our handpoke tattoo process ensures minimal trauma to the skin while delivering incredibly detailed custom designs. It is the perfect choice for fine-line enthusiasts visiting Bali."
+    description: "SEARCHING FOR A TRADITIONAL HANDPOKE TATTOO IN BALI? OUR HANDPOKE BY DOTLINETATTU FOCUS ON SPECIALIZE CUSTOM GEOMATRIC TRIBAL FUSION DESIGN, CREATED WITH PRECISION, INTENTIONAL APPROACH."
   },
   {
     id: "handtapping",
-    title: "HANDTAPPING",
+    title: "TRADITIONAL HAND TAPPING TATTOO",
     subtitle: "Traditional Bali Art",
     locationLabel: "BALI",
     image: "/Handtapping.jpeg",
-    description: "Experience the most authentic traditional tattoo in Bali with our signature Balinese Handtapping method. Rooted in ancient Indonesian heritage, our expert artists bring cultural storytelling to life using rhythmic tapping techniques right here near Canggu."
+    description: "EXPERIENCE TRADITIONAL HAND TAPPING TATTOO IN BALI, ROOTED IN ANCIENT TRIBAL TRADITIONS EACH PIECE IS CRAFTED WITH A RAW AND NATURAL APPROACH, CREATING AN AUTHENTIC AND MEANINGFUL SIGNATURE."
   },
   {
     id: "tattooing",
-    title: "TATTOOING",
+    title: "TATTOO MACHINE",
     subtitle: "Modern Ink",
     locationLabel: "NEAR CANGGU",
     image: "/Machine.jpeg",
-    description: "Beyond traditional roots, Dotlinetattu is recognized as a premier custom tattoo studio in Bali offering high-quality machine work. From black and grey realism to bold neo-traditional ink, we turn your artistic vision into reality."
+    description: "LOOKING FOR A FINELINE TATTOO IN BALI? OUR MACHINE TATTOO SERVICE SPECIALIZES IN MINIMALIST AND ORNAMENTAL CUSTOM DESIGN DELIVERING CLEAN, PRECISE, AND DETAILED RESULTS TAILORED TO YOUR STYLE."
   },
   {
     id: "piercing",
@@ -80,22 +80,35 @@ export default function HomeClient() {
             THE BEST TATTOO EXPERIENCE IN BALI
           </h1>
           
-          <p className="max-w-[90%] md:max-w-2xl text-gingerbread/85 mb-10 md:mb-12 animate-in fade-in duration-1000 delay-300 text-sm md:text-base leading-relaxed">
-            Bringing authentic traditional and modern tattoo art in Bali, just minutes from Canggu. Specializing in Balinese Handpoke, Handtapping and Tattoo Machine services.
-          </p>
+          <div className="max-w-[92%] md:max-w-3xl mb-10 md:mb-12 animate-in fade-in duration-1000 delay-300">
+            <div className="border border-gingerbread/25 bg-white/5 backdrop-blur-sm px-5 py-4 md:px-8 md:py-6 text-gingerbread/90 shadow-[0_0_0_1px_rgba(216,104,58,0.12)]">
+              <p className="text-[11px] sm:text-xs md:text-sm uppercase tracking-[0.3em] leading-7 font-medium">
+                Dotlinetattu handpoke and hand tapping tattoo in Bali.
+              </p>
+              <p className="mt-3 text-[11px] sm:text-xs md:text-sm uppercase tracking-[0.24em] leading-7">
+                Authentic tattoo studio specializing in geometric tribal fusion.
+              </p>
+              <div className="mt-4 space-y-2 text-[10px] sm:text-[11px] md:text-xs uppercase tracking-[0.2em] leading-7 text-gingerbread/80">
+                <p>Looking for a handpoke tattoo in Bali or traditional hand tapping tattoo?</p>
+                <p>Dotlinetattu creates custom geometric tribal fusion designs using precise manual techniques and refined detail.</p>
+                <p>Based in Bali, we create clean, detailed tattoos designed to flow naturally with your body.</p>
+                <p className="pt-1 font-semibold text-gingerbread">Book your session and create your signature in Bali.</p>
+              </div>
+            </div>
+          </div>
           
           <div className="flex flex-col sm:flex-row items-center justify-center gap-4 w-full sm:w-auto relative z-20 px-4 sm:px-0">
-            <Link href="/booking" className="w-full sm:w-auto">
+            <Link href="https://wa.me/6281234567890" className="w-full sm:w-auto" target="_blank" rel="noopener noreferrer">
               <Button 
                 className="w-full bg-gingerbread hover:bg-gingerbread-hover text-white px-8 md:px-10 py-6 md:py-7 rounded-none text-sm md:text-lg transition-all duration-200" 
                 size="lg"
                 aria-label="Book Your Premium Tattoo Consultation at Dotlinetattu"
               >
-                BOOK CONSULTATION
+                BOOK YOUR SESSION HERE
               </Button>
             </Link>
             
-            <Link className="w-full sm:w-auto" href="/portfolio">
+            <Link className="w-full sm:w-auto" href="https://www.instagram.com/dotlinetattu" target="_blank" rel="noopener noreferrer">
               <Button 
                 className="w-full sm:w-auto border-white/20 px-8 md:px-10 py-6 md:py-7 rounded-none text-sm md:text-lg hover:bg-white hover:text-black transition-all duration-200" 
                 size="lg" 
@@ -151,8 +164,10 @@ export default function HomeClient() {
                 </h2>
               </div>
 
-              <p className="text-muted-foreground text-sm md:text-base">
-                Based in the artistic heart of <span className="text-white font-medium">BALI</span>, Dotlinetattu proudly welcomes clients from <span className="text-white font-medium">Canggu, Ubud, Uluwatu, Denpasar</span>, and across the globe.
+              <p className="text-muted-foreground text-sm md:text-base leading-relaxed">
+                <span className="text-white font-medium uppercase tracking-[0.2em]">THE BEST HANDPOKE TATTOO IN BALI AND TRADITIONAL HAND-TAPPING BALI EXPERIENCE.</span>
+                <br />
+                <span className="block mt-2">TRADITIONAL HANDPOKE TATTOO IN BALI AND HAND-TAPPING BASED IN CANGGU, BALI. PROUDLY WELCOMES CLIENTS AROUND BALI AND ACROSS THE GLOBE.</span>
               </p>
 
               <div className="flex flex-col gap-3" role="tablist" aria-label="Tattoo service selection tabs">

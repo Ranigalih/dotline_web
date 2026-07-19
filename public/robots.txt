@@ -1,5 +1,0 @@
-User-agent: *
-Disallow:
-
-Sitemap: https://dotlinetattuhandpokebali.com/sitemap.xml
-Host: https://dotlinetattuhandpokebali.com
