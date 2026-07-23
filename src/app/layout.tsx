@@ -97,6 +97,9 @@ export default function RootLayout({
             })
           }}
         />
+        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/Icon.png" type="image/png" />
+        <link rel="apple-touch-icon" href="/Icon.png" />
       </head>
       <body className="bg-background text-foreground antialiased font-graduated">
         <AudioProvider>
